@@ -1,10 +1,10 @@
-# DailyPay Front End Engineering Challenge
+# Playboy Front End Engineering Challenge
 
-Welcome Candidate and thank you for taking the time to complete the DailyPay take-home challenge for our senior frontend engineer position
+Welcome and thank you for taking the time to complete the Playboy take-home challenge for our senior frontend engineer position
 
 You will have 2 days to complete the assignment. Once you have completed your solution, please reply with a link to a github repository and instructions on how to install / run the application
 
-The goal of this challenge is to build out a "Movie Awards 2021" interactive ballot. Please clone this repository and submit it once you are finished.
+The goal of this challenge is to build out a "Playboy Awards 2021" interactive ballot. Please clone this repository and submit it once you are finished.
 
 Here are the rules of this challenge.. you must:
 
@@ -44,7 +44,7 @@ Here are the rules of this challenge.. you must:
   - Nominee card background hover / submit button background hover: ![#34AC9C](https://via.placeholder.com/15/#34AC9C/000000?text=+) `#34AC9C`
 
 
-  Good luck and if you have questions, please reach out to us at rafael.freaner@dailypay.com
+  Good luck!
 
 ## Available Scripts
 
