@@ -14,7 +14,7 @@ Here are the rules of this challenge.. you must:
  [Fetch API Documentation](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
 [useState Documentation](https://reactjs.org/docs/hooks-state.html)
  3) When you click on a nominee, we should highlight the nominee card and save the selections using the React `useState` hook. A user can only select one nominee per category, and we should be able to see all of their selections highlighted. The selected nominee card should follow the style guides below.
- 4) Make the layout responsive with at least one breakpoint (your choice as to how it looks on a smaller screen width).
+ 4) Make the layout responsive with at least one breakpoint. On mobile, the app should look and feel like a native mobile app.
  5) Once the user is finished making their selections, they can click on a submit button that displays a results modal screen. A user can dismiss the modal by clicking on the close button (follow the wireframe below).
 
 ## Requirements:
