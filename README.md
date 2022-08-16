@@ -8,7 +8,7 @@ The goal of this challenge is to build out a "Playboy Awards 2021" interactive b
 
 Here are the rules of this challenge.. you must:
 
- 1) Build an application that displays a list of categories and nominees. Please follow the design in the wireframe below. Run `yarn start` to start the application.
+ 1) Build an application that displays a list of categories and nominees. Please follow the the essence of the wireframe below (feel free to make it your own). Run `yarn start` to start the application.
  2) Use the ![OMDB Database](http://www.omdbapi.com/) to populate 5 categories of 5 nominees each.
  3) When you click on a nominee, we should highlight the nominee card and save the selections. A user can only select one nominee per category, and we should be able to see all of their selections highlighted. The selected nominee card should follow the style guides below.
  4) Make the layout responsive with at least one breakpoint. On mobile, the app should look and feel like a native mobile app.
