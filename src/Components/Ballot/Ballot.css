@@ -1,0 +1,13 @@
+.ballot {
+  background-color: #0d2436;
+  color: #ffffff;
+}
+.ballot-header {
+  margin: 0;
+  padding: 2rem;
+}
+.ballot-submit-button {
+  margin: 2rem;
+  padding: 0.25rem 0.5rem;
+  cursor: pointer;
+}
